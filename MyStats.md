@@ -19,4 +19,12 @@ Certainly! Trying out different sports can be a great way to stay active, social
 | Batminten          | Perfect for exploring nature and staying fit.         | 6-8 hours    |
 | tennis        | Less-impact exercise that engages the whole body.      | 2-5 hours    |
 
+---
 
+## Pithy Quotes
+
+> Success can come to you by courageous devotion to the task lying in front of you.
+> -  *CV Raman*
+
+>You have to dream before your dreams can come true.
+> -  *Dr. A.P.J. Abdul Kalam*
