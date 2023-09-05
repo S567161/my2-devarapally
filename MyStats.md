@@ -28,3 +28,27 @@ Certainly! Trying out different sports can be a great way to stay active, social
 
 >You have to dream before your dreams can come true.
 > -  *Dr. A.P.J. Abdul Kalam*
+
+---
+
+### Code Fencing with Stack Overflow reference
+
+> **Question on Stack Overflow**:
+[Turn Off Number Input Spinners](https://stackoverflow.com/questions/63597045/how-to-disable-the-spin-buttons-for-input-number)
+
+**[Source: Stack Overflow](https://stackoverflow.com/questions/63597045/how-to-disable-the-spin-buttons-for-input-number)**
+
+``` css
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {
+  opacity: 1;
+}
+```
+
+[Link to snippet source](https://css-tricks.com/snippets/css/turn-off-number-input-spinners/)
