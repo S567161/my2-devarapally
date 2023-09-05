@@ -13,3 +13,8 @@ Here are some of my favorite activities which enjoy I at Tirupati
 1. **Darshanam**
 2. **Climbing Steps**
 3. **Seeing Mountains**
+
+## Dishes I would love to have at Tirumala
+- Laddu
+- Pulihora
+- Annadanam
