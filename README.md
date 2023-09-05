@@ -18,3 +18,6 @@ Here are some of my favorite activities which enjoy I at Tirupati
 - Laddu
 - Pulihora
 - Annadanam
+
+
+[Link to MyStatus](MyStats.md)
